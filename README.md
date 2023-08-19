@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there, I'm Logan! 👋
+I'm a full stack developer based in Orange County, CA. I’m passionate about web development because it offers a unique blend of constant learning and practical problem-solving. It’s a space where I can continually refine my skills while contributing to meaningful projects.
 
-<!--
-**loganlee-lth/loganlee-lth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Intrigued by my journey or looking for someone to exchange knowledge with? Hit me up!
 
-Here are some ideas to get you started:
+## 💻 Projects
+- Timeless Fashion | [Live](https://timeless.loganleelth.com) | [GitHub Repo](https://github.com/loganlee-lth/Timeless)
+- Moogle | [Live](https://loganlee-lth.github.io/Moogle/) | [GitHub Repo](https://github.com/loganlee-lth/Moogle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Next.js, TypeScript, Tailwind CSS, Jest, React Testing Library
+
+## 🔨 Languages and Tools
+
+
+## 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganlee-lth&layout=compact&theme=dark" height=150 alt="loganlee-lth"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loganlee-lth&hide=stars,contribs&show_icons=true&theme=dark" height=150 alt="loganlee-lth"/>
+</p>
+
+## 🤝 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/logan-lee-lth/)
