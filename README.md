@@ -1,4 +1,4 @@
-## Hi there, I'm Logan! 👋
+# Hi there, I'm Logan! 👋
 I'm a full stack developer based in Orange County, CA. I’m passionate about web development because it offers a unique blend of constant learning and practical problem-solving. It’s a space where I can continually refine my skills while contributing to meaningful projects.
 
 Intrigued by my journey or looking for someone to exchange knowledge with? Hit me up!
