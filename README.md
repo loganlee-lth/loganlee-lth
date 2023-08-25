@@ -29,12 +29,11 @@ Intrigued by my journey or looking for someone to exchange knowledge with? Hit m
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganlee-lth&layout=compact&theme=dark" height=150 alt="loganlee-lth"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=loganlee-lth&hide=stars,contribs&show_icons=true&theme=dark" height=150 alt="loganlee-lth"/>
-</p>
+[![Logan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=loganlee-lth&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/loganlee-lth/github-readme-stats#gh-dark-mode-only)
+[![Logan's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=loganlee-lth&layout=compact&theme=light#gh-light-mode-only)](https://github.com/loganlee-lth/github-readme-stats#gh-light-mode-only)
+[![Logan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=loganlee-lth&hide=stars,contribs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/loganlee-lth/github-readme-stats#gh-dark-mode-only)
+[![Logan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=loganlee-lth&hide=stars,contribs&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/loganlee-lth/github-readme-stats#gh-light-mode-only)
 
 ## 🤝 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/logan-lee-lth/)
